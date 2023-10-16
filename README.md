@@ -1,13 +1,8 @@
-# JS basic task
+# JavaScript + HTML5 + Canvas = "Simple snake game" 
 
-Hello, this block is designed for completing basic tasks in the JavaScript programming language. 
+Hello, this game is created and intended to train the skills of working with the JavaScript programming language.
+Mastered Canvas technologies and working with it using JavaScript.
 
-It primarily focuses on review and learning new techniques related to:
-- Loops 
-- Arrays 
-- Functions 
-- Classes and objects 
+The main tasks considered and performed in this project are related to:
+- Canvas with JS 
 - Working with HTML through JS
-- Async function
-
-The block is organized into tasks based on lectures and categories. Some code is commented out /// to avoid display issues.
